@@ -1,0 +1,6 @@
+﻿{
+  "MoveItBaseUrl": "https://testserver.moveitcloud.com/api/v1",
+  "Username": "HERE GOES YOUR USERNAME",
+  "Password": "HERE GOES YOUR PASSWORD",
+  "LocalFolderPath": "HERE GOES YOUR LOCAL FOLDER PATH"
+}
